@@ -6,4 +6,7 @@ package com.pcgrw.designpattern.singleton;
  */
 public enum EnumSingleton {
     INSTANCE;
+
+    public void whateverMethod() {
+    }
 }
